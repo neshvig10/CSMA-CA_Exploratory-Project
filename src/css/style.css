@@ -1,0 +1,75 @@
+.btn-danger{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(251, 0, 0);
+    border-radius: 4px;
+    border-color: red;
+
+}
+
+.btn-danger1{
+    width: 200px;
+    height: 40px;
+    border-radius: 4px;
+    border-color: rgb(236, 168, 168);
+    background-color: rgb(236, 168, 168);
+}
+
+.body{
+    background-color: rgb(28, 158, 218);
+}
+
+
+.status{
+    border-radius: 5px;
+    border-color: red;
+    background-color: lightpink;
+    width: 100px;
+    height: 35px;
+    border-color: red;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.user{
+    border-radius: 4px;
+    background-color: rgb(81, 81, 174);
+    height: 100%;
+    width: 100%;
+    padding: 4px;
+    justify-content: space-between;
+}
+
+.userbuto1{
+    width: 140px;
+    height: 50px;
+    border-color:white;
+    background-color: rgb(240, 240, 31);
+    margin: 2px;
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.userbuto2{
+    width: 140px;
+    height: 50px;
+    border-color:rgb(82, 4, 251);
+    border-width: 3px;
+    background-color: rgb(240, 240, 31);
+    margin: 2px;
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.userbuto3{
+    width: 70px;
+    height: 386spx;
+    border-color:white;
+    background-color: rgb(240, 234, 39);
+    /* margin: 2px; */
+    /* padding: 2px; */
+    border-color: rgb(93, 93, 167);
+    border-width: 5px;
+    border-radius: 4px;
+}
